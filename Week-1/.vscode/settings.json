@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\Techplement\\gson-2.2.2.jar"
+    ]
+}
